@@ -1,0 +1,3 @@
+C:\Program Files\Java\jdk1.8.0_91\bin\wsimport.exe
+-keep -verbose -s D:\IntelliJProjects\shit\jaxws\clientJAXWS\src\main -d D:\IntelliJProjects\shit\jaxws\clientJAXWS\target\classes http://localhost:8085/employeeservice?wsdl
+C:\Program Files\Java\jdk1.8.0_91\bin
